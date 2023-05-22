@@ -1,0 +1,14 @@
+.foodItem > button {
+    display: none;
+}
+    
+.foodItem:hover > img {
+    opacity: 40%;
+}
+
+.foodItem:hover > button {
+    display: block;
+    z-index: 1;
+}
+
+    

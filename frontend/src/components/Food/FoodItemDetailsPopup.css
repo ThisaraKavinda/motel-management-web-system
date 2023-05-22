@@ -1,0 +1,10 @@
+.price-input {
+    border: none; /* Removes the default border */
+    border-bottom: 1px solid;
+    background-color:transparent;
+}
+
+.price-input:focus {
+    outline: none; /* Removes the border when the input is clicked */
+    border-bottom: 2px solid blue;
+}

@@ -1,0 +1,14 @@
+.foodItem:hover > img {
+    opacity: 40%;
+    cursor: pointer;
+}
+
+.foodItem:hover h5  {
+    cursor: pointer;
+    text-decoration:underline ;
+    color: #081e3d;
+}
+
+.foodItem:hover h5  {
+    cursor: pointer;
+}
