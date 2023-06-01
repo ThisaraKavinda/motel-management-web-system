@@ -19,7 +19,6 @@ export default function Login() {
     const employeeType = [
         { value: "cm", label: "Customer Manager" },
         { value: "em", label: "Employee Manager" },
-        { value: "vm", label: "Vehicle Managger" },
         { value: "fm", label: "Food Manager" },
     ];
 
