@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from '../components/C_M_Navbar';
-import '../css/modern.css';
+import "./C_M_Dashboard.css"
 import '../js/app.js';
 
 // Controllers
@@ -68,7 +68,7 @@ export default function C_M_Dashboard() {
 						</div>
 
 						<div class="row">
-							<div class="col-md-6 col-lg-3 col-xl">
+							<div class="col-3">
 								<div class="card">
 									<div class="card-body">
 										<div class="row">
