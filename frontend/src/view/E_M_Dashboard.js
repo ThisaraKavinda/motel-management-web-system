@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from '../components/E_M_Navbar';
-import '../css/modern.css';
+import './E_M_Dashboard.css';
 import '../js/app.js';
 
 //controllers

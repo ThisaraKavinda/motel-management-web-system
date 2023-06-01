@@ -11,7 +11,7 @@ import 'jspdf-autotable'
 import logo from '../img/logo/fullLogo.png';
 
 //css
-import '../css/modern.css';
+import "./C_M_Report.css";
 
 //js
 import '../js/app.js';

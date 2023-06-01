@@ -6,7 +6,7 @@ import Select from 'react-select'
 import $ from 'jquery';
 
 //css
-import '../css/modern.css';
+import './C_M_AppointmentAdd.css';
 
 //js
 import '../js/app.js';

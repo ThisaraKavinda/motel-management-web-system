@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from '../components/E_M_Navbar';
-import '../css/modern.css';
+import './E_M_UpdateEmployee.css';
 import '../js/app.js';
-
 
 export default function E_M_UpdateEmployee() {
 

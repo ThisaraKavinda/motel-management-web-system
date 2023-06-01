@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 
 //css
-import '../css/modern.css';
+import './CustomerBill.css';
 
 //js
 import '../js/app.js';

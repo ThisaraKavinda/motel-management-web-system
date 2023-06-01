@@ -148,7 +148,7 @@ export default function F_M_Dashboard() {
                 </div>
 
                 <div class="row d-flex justify-content-between">
-                <div class="col-md-6 col-lg-4 ">
+                <div class="col-md-6 col-lg-4 col-3">
                     <div class="card" style={{ width: "350px", backgroundColor: "#518B6C" }}>
                     <div class="card-body" style={{ margin: "0px" }}>
                         <div class="row">
@@ -165,7 +165,7 @@ export default function F_M_Dashboard() {
                     </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 ">
+                <div class="col-md-6 col-lg-4 col-3">
                     <div
                     class="card"
                     style={{ width: "350px", backgroundColor: "#C49C2C" }}
@@ -187,7 +187,7 @@ export default function F_M_Dashboard() {
                     </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 ">
+                <div class="col-md-6 col-lg-4 col-3">
                     <div
                     class="card"
                     style={{ width: "350px", backgroundColor: "#D86F33" }}

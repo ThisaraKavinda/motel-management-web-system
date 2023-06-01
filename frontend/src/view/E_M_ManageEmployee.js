@@ -4,7 +4,7 @@ import Navbar from "../components/E_M_Navbar";
 import swal from "sweetalert";
 
 //css
-import "../css/modern.css";
+import "./E_M_ManageEmployee.css";
 
 //js
 import "../js/app.js";

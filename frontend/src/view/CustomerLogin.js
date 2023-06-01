@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { reactBaseURL } from '../config';
 
 //css
-import '../css/modern.css';
+import './CustomerLogin.css';
 
 //js
 import '../js/app.js';

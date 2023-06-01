@@ -5,7 +5,7 @@ import swal from "sweetalert";
 import { reactBaseURL } from "../config";
 
 //css
-import "../css/modern.css";
+import "./E_M_ManageLeaves.css";
 
 //js
 import "../js/app.js";

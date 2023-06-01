@@ -10,7 +10,7 @@ import FormInput from "../components/FormInput";
 import FormInputDate from '../components/FormInputDate';
 
 //css
-import "../css/modern.css";
+import "./E_M_EditEmployee.css";
 
 //js
 import "../js/app.js";

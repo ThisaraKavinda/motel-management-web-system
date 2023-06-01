@@ -4,7 +4,7 @@ import Navbar from '../components/E_M_Navbar';
 import swal from 'sweetalert';
 
 //css
-import '../css/modern.css';
+import './E_M_Registration.css';
 
 //js
 import '../js/app.js';
@@ -233,7 +233,7 @@ export default function E_M_Registration() {
                                     <div class="row">
                                         <div class="mb-3 col-md-6">
                                             <label for="inputCity">Password</label>
-                                            <input type="text" class="form-control"  value={employeePassword} onChange={(e) => setEmployeePassword(e.target.value)} name="contactNo" required />
+                                            <input type="password" class="form-control"  value={employeePassword} onChange={(e) => setEmployeePassword(e.target.value)} name="contactNo" required />
                                         </div>
                                         <div class="mb-3 col-md-6">
                                             <label for="inputCity">Contact No</label>

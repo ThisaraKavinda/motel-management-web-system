@@ -3,7 +3,7 @@ import { useParams,Link } from "react-router-dom";
 import Navbar from '../components/E_M_Navbar';
 
 //css
-import '../css/modern.css';
+import './E_M_ViewEmployee.css';
 
 
 //js
