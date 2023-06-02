@@ -3,6 +3,7 @@ import { useParams, useNavigate} from 'react-router-dom';
 import Navbar from "../../components/F_M_Navbar";
 import "../../css/modern.css";
 // import "../../js/app.js";
+import "./F_M_OrderPlaced.css";
 import "./F_M_SelectFood.css";
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
